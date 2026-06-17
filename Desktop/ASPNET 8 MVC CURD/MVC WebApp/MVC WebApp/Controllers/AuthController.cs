@@ -11,7 +11,9 @@ namespace MVC_WebApp.Controllers
 
         public IActionResult Registar()
         {
+            //my name is atharv 
             return View();  
         }
+
     }
 }
